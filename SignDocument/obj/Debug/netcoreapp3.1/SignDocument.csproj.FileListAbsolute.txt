@@ -1,0 +1,13 @@
+C:\Users\evand\source\repos\GitHub\SignDocument\bin\Debug\netcoreapp3.1\SignDocument.exe
+C:\Users\evand\source\repos\GitHub\SignDocument\bin\Debug\netcoreapp3.1\SignDocument.deps.json
+C:\Users\evand\source\repos\GitHub\SignDocument\bin\Debug\netcoreapp3.1\SignDocument.runtimeconfig.json
+C:\Users\evand\source\repos\GitHub\SignDocument\bin\Debug\netcoreapp3.1\SignDocument.runtimeconfig.dev.json
+C:\Users\evand\source\repos\GitHub\SignDocument\bin\Debug\netcoreapp3.1\SignDocument.dll
+C:\Users\evand\source\repos\GitHub\SignDocument\bin\Debug\netcoreapp3.1\SignDocument.pdb
+C:\Users\evand\source\repos\GitHub\SignDocument\obj\Debug\netcoreapp3.1\SignDocument.csprojAssemblyReference.cache
+C:\Users\evand\source\repos\GitHub\SignDocument\obj\Debug\netcoreapp3.1\SignDocument.AssemblyInfoInputs.cache
+C:\Users\evand\source\repos\GitHub\SignDocument\obj\Debug\netcoreapp3.1\SignDocument.AssemblyInfo.cs
+C:\Users\evand\source\repos\GitHub\SignDocument\obj\Debug\netcoreapp3.1\SignDocument.csproj.CoreCompileInputs.cache
+C:\Users\evand\source\repos\GitHub\SignDocument\obj\Debug\netcoreapp3.1\SignDocument.dll
+C:\Users\evand\source\repos\GitHub\SignDocument\obj\Debug\netcoreapp3.1\SignDocument.pdb
+C:\Users\evand\source\repos\GitHub\SignDocument\obj\Debug\netcoreapp3.1\SignDocument.genruntimeconfig.cache
